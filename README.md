@@ -38,12 +38,14 @@ RUNTEQ内リリース(MVP)
 自分自身あまり英語が得意ではなく、英語で書かれた公式ドキュメントやエラー文を見るたびに抵抗を感じていたので、自力で読める英語力が欲しいと思いこのサービスを作りたいと思いました。
 普段は翻訳ソフトを使っていますが、たまに訳がおかしいことがあったり、翻訳ソフトを使うワンアクションがドキュメントやエラー文を読むモチベーションの低下に繋がっているように感じるので、自力で英語を読めるようになることはエンジニア力の向上にもつながるとも思っています。
 
+### 画面遷移図
+[figma](https://www.figma.com/file/VMaKs3Fv0dHY34mWtIuxw2/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0?node-id=0%3A1)
+
+### ER図
+[draw.io](https://drive.google.com/file/d/14Dm99WC_ka1BvYH6-hOoT3QnxZiRlxCz/view?usp=sharing)
 
 ### スケジュール
 - README〜ER図作成：2/20〆切
 - メイン機能実装：2/20 - 3/16
 - β版をRUNTEQ内リリース（MVP）：3/16〆切
 - 本リリース：3/25
-
-### 画面遷移図
-[figma](https://www.figma.com/file/VMaKs3Fv0dHY34mWtIuxw2/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0?node-id=0%3A1)
